@@ -36,3 +36,6 @@ skip 从零开始手敲次世代游戏引擎（三） [link](https://zhuanlan.zh
 
 8.9 从零开始手敲次世代游戏引擎（六） [link](https://zhuanlan.zhihu.com/p/28633100)
 图形API概述，图形模块探索思路
+
+8.9 部分skip 从零开始手敲次世代游戏引擎（七） [link](https://zhuanlan.zhihu.com/p/28641118)
+从Windows开始图形编程，使用GDI
