@@ -33,3 +33,6 @@ skip 从零开始手敲次世代游戏引擎（三） [link](https://zhuanlan.zh
 
 8.8 从零开始手敲次世代游戏引擎（五） [link](https://zhuanlan.zhihu.com/p/28619982)
 搭建跨平台的基本应用框架
+
+8.9 从零开始手敲次世代游戏引擎（六） [link](https://zhuanlan.zhihu.com/p/28633100)
+图形API概述，图形模块探索思路
