@@ -39,3 +39,12 @@ skip 从零开始手敲次世代游戏引擎（三） [link](https://zhuanlan.zh
 
 8.9 部分skip 从零开始手敲次世代游戏引擎（七） [link](https://zhuanlan.zhihu.com/p/28641118)
 从Windows开始图形编程，使用GDI
+
+skip 从零开始手敲次世代游戏引擎（八） [link](https://zhuanlan.zhihu.com/p/28665581)
+通过XCB创建Linux的窗口
+
+8.10 部分skip 从零开始手敲次世代游戏引擎（九） [link](https://zhuanlan.zhihu.com/p/28679304)
+CPU绘制矩形
+
+从零开始手敲次世代游戏引擎（十） [link](https://zhuanlan.zhihu.com/p/28711014)
+Windows下用GPU绘制矩形
