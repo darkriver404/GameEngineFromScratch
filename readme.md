@@ -2,7 +2,7 @@
 
 ## 说明
 
-这是我学习 知乎专栏[《高品质游戏开发》](https://zhuanlan.zhihu.com/c_119702958)中的《从零开始手敲次世代游戏引擎》系列 用的 repo
+这是我学习 知乎专栏[《高品质游戏开发》](https://zhuanlan.zhihu.com/c_119702958) [github](https://github.com/netwarm007/GameEngineFromScratch)中的《从零开始手敲次世代游戏引擎》系列 用的 repo
 
 ## 学习目的
 
@@ -13,6 +13,14 @@
 - 熟悉跨平台开发构建的工具集
 - 培养脱离IDE构建工程的能力
 - ~~其实就是想自己造个轮子玩~~
+
+## 参考书籍
+C++ Primer
+C++ 标准
+游戏引擎架构 Game Engine Architecture
+
+# 学习代码 repo 地址
+https://github.com/darkriver404/GameEngineFromScratch.git
 
 ## 进度
 
